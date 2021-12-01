@@ -1,6 +1,7 @@
 [資安新手入門手冊] Web Security 領航之路
 ==============================
 
+![](https://github.com/fei3363/Web-Security-Pilot/blob/main/img/title.png?raw=true)
 
 
 這是一篇以 Web 網站安全為主，給資安新手學習的路徑指南，也可以作為資安社團的資訊安全入門的課程安排。也希望提供給零基礎學習資訊安全的夥伴們一點的系統化的教學。
@@ -18,7 +19,8 @@
 
 Note：2021.09.04 更新 [2021 SITCON 學生計算機年會](https://sitcon.org/2021/agenda/f9d32ce5-2f26-4df0-bd39-351bae36cdb1)
 
-Web Security 領航之路
+
+-[簡報連結](https://www.slideshare.net/ssuser41dd2e/sitcon2021-web-security)
 
 本身作為資安工程師與經營過資安社團，透過 Web Security 比較好上手的特性，希望可以藉由該議程讓許多資安社團作為新手入門資安的課程安排與參考，也歡迎對資安有興趣想入門的與會者了解有哪些資源可以利用，透過議程介紹的學習路徑與教學方法可以讓上手的速度更快減少狀況期，後段也會介紹進階課程（Windows AD、提權）的安排。
 
@@ -26,6 +28,8 @@ Web Security 領航之路
 
 資安概論
 ====
+
+![](https://github.com/fei3363/Web-Security-Pilot/blob/main/img/pre.png?raw=true)
 
 了解駭客為什麼要攻擊企業或其他人的電腦，駭客是為了何者目的而進行攻擊，以下列舉關鍵字提供大家進行搜尋。
 
@@ -227,6 +231,8 @@ Windows AD
 
 滲透測試實踐
 ======
+
+![](https://github.com/fei3363/Web-Security-Pilot/blob/main/img/pentest.png?raw=true)
 
 了解滲透測試跟弱點掃描的差別，深度了解滲透測試的流程與報告寫法。
 
