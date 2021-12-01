@@ -1,5 +1,7 @@
 [資安新手入門手冊] Web Security 領航之路
 ==============================
+[medium 好讀版本](https://medium.com/%E8%B3%87%E5%AD%90%E4%B9%8B%E6%89%8B-%E5%AE%89%E4%B9%8B%E4%BD%A0%E6%88%91/%E8%B3%87%E5%AE%89%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%89%8B%E5%86%8A-web-security-%E9%A0%98%E8%88%AA%E4%B9%8B%E8%B7%AF-8d634d9228b5)
+
 
 ![](https://github.com/fei3363/Web-Security-Pilot/blob/main/img/title.png?raw=true)
 
@@ -20,7 +22,7 @@
 Note：2021.09.04 更新 [2021 SITCON 學生計算機年會](https://sitcon.org/2021/agenda/f9d32ce5-2f26-4df0-bd39-351bae36cdb1)
 
 
--[簡報連結](https://www.slideshare.net/ssuser41dd2e/sitcon2021-web-security)
+[簡報連結](https://www.slideshare.net/ssuser41dd2e/sitcon2021-web-security)
 
 本身作為資安工程師與經營過資安社團，透過 Web Security 比較好上手的特性，希望可以藉由該議程讓許多資安社團作為新手入門資安的課程安排與參考，也歡迎對資安有興趣想入門的與會者了解有哪些資源可以利用，透過議程介紹的學習路徑與教學方法可以讓上手的速度更快減少狀況期，後段也會介紹進階課程（Windows AD、提權）的安排。
 
